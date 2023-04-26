@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h1> I am the best </h1>
+        <h1>And I am a great developer</h1>
       </header>
     </div>
   );
